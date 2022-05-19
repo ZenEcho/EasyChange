@@ -1,6 +1,7 @@
-let BBH=1.0.0
-let ZHGX="2022年5月19日"
-let CKDZ="https://github.com/youheiss/EasyChange"
+#版本1.0.0
+#最后更新"2022年5月19日"
+#厂库地址"https://github.com/youheiss/EasyChange"
+
 #判断gif文件夹
 GifMk(){
     if [ ! -d $(pwd)/gif ];then
@@ -129,9 +130,7 @@ WcChange(){
 
     echo ""
     echo "############################################"
-    echo "####欢迎使用Easy change V $BBH"
-    echo "####最后更新：$ZHGX"
-    echo "####厂库地址：$CKDZ"
+    echo "####欢迎使用Easy change"
     echo "####目前支持：webm,gif,mp4格式相互转换"
     echo "############################################"
     echo "0.安装Easy change"
