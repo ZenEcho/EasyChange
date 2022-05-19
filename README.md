@@ -44,4 +44,4 @@ chmod 755 EasyChange.sh
 ```
 
 # 使用方法推荐
-curl -L https://sh.233404.xyz/EasyChange.sh  -o EasyChange.sh && chmod +755 EasyChange.sh && sudo ./EasyChange.sh
+curl -L http://sh.233404.xyz/EasyChange.sh  -o EasyChange.sh && chmod +755 EasyChange.sh && sudo ./EasyChange.sh
