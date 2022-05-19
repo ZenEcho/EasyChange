@@ -45,7 +45,6 @@ chmod 755 EasyChange.sh
 
 ```bash
 #Debian，Ubuntu克隆
-
 apt-get install git -y
 git clone https://github.com/youheiss/EasyChange
 cd EasyChange
@@ -53,7 +52,7 @@ chmod 755 EasyChange.sh
 ./EasyChange.sh
 ```
 
-**一键脚本**
+**一键脚本（推荐）**
 ```bash
 curl -L http://sh.233404.xyz/EasyChange.sh  -o EasyChange.sh && chmod +755 EasyChange.sh && sudo ./EasyChange.sh
 ```
