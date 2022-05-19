@@ -23,7 +23,10 @@ WebmToGif,Mp4ToGif,Webm动图格式转换
 
 **Debian，Ubuntu**
 
-# 使用方法（克隆厂库）
+# 使用说明
+
+**克隆脚本**
+
 **centos**
 
 ```bash
@@ -43,7 +46,10 @@ chmod 755 EasyChange.sh
 ./EasyChange.sh
 ```
 
-# 使用方法推荐
+**一键脚本**
 ```bash
 curl -L http://sh.233404.xyz/EasyChange.sh  -o EasyChange.sh && chmod +755 EasyChange.sh && sudo ./EasyChange.sh
 ```
+**说明**
+只需要把需要转换的文件，放到与脚本同目录即可（如图）
+https://233404.xyz/images/2022/05/19/MMpxCu06qg/kurun9929%20%E5%92%8C%E5%8F%A6%E5%A4%96%2021%20%E4%B8%AA%E9%A1%B5%E9%9D%A2%20-%20%E4%B8%AA%E4%BA%BA%20-%20Microsoft%E2%80%8B%20Edge_2022-05-19_23-57-26.png
