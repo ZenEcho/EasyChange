@@ -31,18 +31,21 @@ WebmToGif,Mp4ToGif,Webm动图格式转换
 
 **克隆脚本**
 
-**centos**
+
 
 ```bash
+#centos克隆
 yum install git -y
 cd EasyChange
 git clone https://github.com/youheiss/EasyChange
 chmod 755 EasyChange.sh
 ./EasyChange.sh
 ```
-**Debian，Ubuntu**
+
 
 ```bash
+#Debian，Ubuntu克隆
+
 apt-get install git -y
 git clone https://github.com/youheiss/EasyChange
 cd EasyChange
@@ -57,7 +60,7 @@ curl -L http://sh.233404.xyz/EasyChange.sh  -o EasyChange.sh && chmod +755 EasyC
 
 **说明**
 
-只需要把需要转换的文件，放到与脚本同目录即可（如图）
+只需要把需要转换的文件，放到与脚本同目录然后执行指令即可（如图）
 
 ![例子](https://user-images.githubusercontent.com/56901101/169345484-04bb6de7-b100-4b21-a441-b68724825ba0.png)
 
