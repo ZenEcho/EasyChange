@@ -43,8 +43,8 @@ WebmToGif,Mp4ToGif,Webm动图格式转换
 ```bash
 #centos克隆
 yum install git -y
-cd EasyChange
 git clone https://github.com/youheiss/EasyChange
+cd EasyChange
 chmod 755 EasyChange.sh
 ./EasyChange.sh
 ```
